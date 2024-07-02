@@ -24,5 +24,5 @@ Sudoku Solver is a web application built with Streamlit and Python that allows u
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/sudoku-solver.git
-   cd sudoku-solver
+   git clone https://github.com/ajaygodara-iitg/Sudoku-Solver.git
+   cd Sudoku-Solver
